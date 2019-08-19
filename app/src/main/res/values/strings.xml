@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Popular Movies </string>
+    <string name="info_label">INFO</string>
+    <string-array name="sort_items">
+        <item> Popular Movies</item>
+        <item> Top Rated Movies</item>
+    </string-array>
+</resources>
